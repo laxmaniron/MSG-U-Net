@@ -1,2 +1,2 @@
 # MSG-U-Net
-High resolution image to image translation using multi-scale gradient U-Nets 
+Efficient High-Resolution Image-to-Image Translation using Multi-Scale Gradient U-Ne
