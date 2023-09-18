@@ -6,7 +6,7 @@ This repo provides the code implementation of the paper Efficient High-Resolutio
 <ol type="A">
    <li>python 3.6</li>
    <li>Tensorflow  1.12</li>
-   <li>Pytorch 0.4</li>
+   <li>Keras</li>
    <li>Cuda toolkit 9.0</li>
    <li>Cudnn</li>
 </ol>
