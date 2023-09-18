@@ -17,10 +17,9 @@ This repo provides the code implementation of the paper Efficient High-Resolutio
 <li>Download any of the datasets mentioned in the paper
    <a href="https://link.springer.com/chapter/10.1007/978-3-031-11346-8_4">Link to Paper</a> 
    </li>
-<li>Run the output of the first step through deep sort in the link below  
-  <a href="https://github.com/nwojke/deep_sort">Deep Sort</a>
+<li> Make sure you have all the requirements installed, then after run train.ipynb
   </li>
-<li> Segregate poses of different person using jupyter notebook code in mycode folder
+<li> To replicate the results in the paper, run test.ipynb by making appropriate changes by using weights produced by train.ipynb
 </li>
 <li>Uplift the poses from 2d to 3d from the below link
   <a href="https://github.com/una-dinosauria/3d-pose-baseline">3D Pose estimation Baseline</a>
